@@ -1,6 +1,6 @@
-# C# Grundkurs 1: Sprachgrundlagen
+# C# Grundkurs 2: Praktische Programmierung
 
-Dies ist das Repository für den **LinkedIn Learning** Kurs `C# Grundkurs 1: Sprachgrundlagen`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
+Dies ist das Repository für den **LinkedIn Learning** Kurs `C# Grundkurs 2: Praktische Programmierung`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
 ![COURSENAME][lil-thumbnail-url] 
 
