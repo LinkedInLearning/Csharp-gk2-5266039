@@ -35,7 +35,6 @@ Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linke
 1. [ASP.NET Hosting auf Linux](https://www.linkedin.com/learning/asp-dot-net-hosting-auf-linux)
 
 [lil-course-url]: https://www.linkedin.com/learning/c-sharp-grundkurs-2-praktische-programmierung
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQEVV7y6RanFIg/learning-public-crop_675_1200/B4EZfjxC2bHYAY-/0/1751872974924?e=2147483647&v=beta&t=4p2FYthZhy4DvQWfu154OPTAacuDVVkEd9I_jTqZ5EI
 
-[1]: # (End of DE-Instruction ###############################################################################################)
 	
